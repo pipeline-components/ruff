@@ -12,7 +12,7 @@
 
 ## Usage
 
-The image is for running ruff, The image is currently based on python:3.11-alpine3.17
+The image is for running [ruff], The image is currently based on python:3.11-alpine3.17
 
 ## Examples
 
@@ -83,17 +83,18 @@ SOFTWARE.
 [commits]: https://gitlab.com/pipeline-components/ruff/-/commits/master
 [contributors]: https://gitlab.com/pipeline-components/ruff/-/graphs/master
 [dockerhub]: https://hub.docker.com/r/pipelinecomponents/ruff
-[license-shield]: https://img.shields.io/badge/License-MIT-green.svg
-[mjrider]: https://gitlab.com/mjrider
 [gitlabci-shield]: https://img.shields.io/gitlab/pipeline/pipeline-components/ruff.svg
 [gitlabci]: https://gitlab.com/pipeline-components/ruff/-/commits/master
 [issue]: https://gitlab.com/pipeline-components/ruff/issues
 [keepchangelog]: http://keepachangelog.com/en/1.0.0/
+[license-shield]: https://img.shields.io/badge/License-MIT-green.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
+[mjrider]: https://gitlab.com/mjrider
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
 [pulls-shield]: https://img.shields.io/docker/pulls/pipelinecomponents/ruff.svg
 [releases]: https://gitlab.com/pipeline-components/ruff/tags
 [repository]: https://gitlab.com/pipeline-components/ruff
+[ruff]: https://beta.ruff.rs/docs
 [semver]: http://semver.org/spec/v2.0.0.html
 
 [frenck]: https://github.com/frenck
