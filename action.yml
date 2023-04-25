@@ -22,4 +22,3 @@ runs:
     - --format=gitlab
     - "${{ inputs.options }}"
     - "${{ inputs.directory }}"
-
