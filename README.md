@@ -21,7 +21,7 @@ ruff:
   stage: linting
   image: registry.gitlab.com/pipeline-components/ruff:latest
   script:
-    - ruff --output-format=gitlab .
+    - ruff check --output-format=gitlab .
 ```
 
 ## Versioning
