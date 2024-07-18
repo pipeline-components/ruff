@@ -12,7 +12,7 @@
 
 ## Usage
 
-The image is for running [ruff], The image is currently based on python:3.11-alpine3.17
+The image is for running [ruff], The image is currently based on python:3.12-alpine3.17
 
 ## Examples
 
